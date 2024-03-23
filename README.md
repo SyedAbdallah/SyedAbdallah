@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SyedAbdallah
-- 👀 I’m interested in software development, web automation and testing,
-- 🌱 I’m currently learning Springboot framework, React
+- 👀 I’m interested in Web & QA Automation and Testing,
 - 💞️ I’m looking to collaborate with any tech enthusiast
 - 📫 you can reach me on https://syedabdallah.000webhostapp.com/
 
